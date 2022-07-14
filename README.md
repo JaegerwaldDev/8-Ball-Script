@@ -1,4 +1,4 @@
-# 8-Ball-Script
+# 8 Ball Script
 Why did I make this...
 # How to Install 8 Ball Script
 - Go to the Releases and Download the latest Release
