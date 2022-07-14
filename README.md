@@ -16,9 +16,9 @@ Create a New File with the ending of .8ballbin and open it in your text editor o
 
 Hi:
 
-:8ball:,:8ball::8ball:,:8ball:,:8ball:,:8ball::8ball:,:8ball:,:8ball:,:8ball:;:8ball:,:8ball::8ball:,:8ball::8ball:,:8ball:,:8ball::8ball:,:8ball:,:8ball:,:8ball:
+:8ball:,:8ball::8ball:,:8ball:,:8ball:,:8ball::8ball:,:8ball:,:8ball:,:8ball:;:8ball:,:8ball::8ball:,:8ball::8ball:,:8ball:,:8ball::8ball:,:8ball:,:8ball:,:8ball::8ball:
 ```
-:8ball:,:8ball::8ball:,:8ball:,:8ball:,:8ball::8ball:,:8ball:,:8ball:,:8ball:;:8ball:,:8ball::8ball:,:8ball::8ball:,:8ball:,:8ball::8ball:,:8ball:,:8ball:,:8ball:
+:8ball:,:8ball::8ball:,:8ball:,:8ball:,:8ball::8ball:,:8ball:,:8ball:,:8ball:;:8ball:,:8ball::8ball:,:8ball::8ball:,:8ball:,:8ball::8ball:,:8ball:,:8ball:,:8ball::8ball:
 ```
 <sub>This is a basic "Hi" sequence.</sub>
 
