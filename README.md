@@ -21,7 +21,7 @@ Hi:
 :8ball:,:8ball::8ball:,:8ball:,:8ball:,:8ball::8ball:,:8ball:,:8ball:,:8ball:;:8ball:,:8ball::8ball:,:8ball::8ball:,:8ball:,:8ball::8ball:,:8ball:,:8ball:,:8ball::8ball:
 ```
 <sub>This is a basic "Hi" sequence.</sub>
-# How to use and make your own Plugins
+# (Build Deleted, Fix Will Release soon) How to use and make your own Plugins
 Create a New Folder inside of your project folder called "plugins". In that folder create .json file named "plugins". Write the following code into the .json file:
 ```json
 ["your_plugin", "downloaded_plugin"]
