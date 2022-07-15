@@ -25,6 +25,7 @@ Conditions:
 
 # Import the necessary librarys.
 import sys
+import plugin_handler
 from time import sleep as wait
 
 # Define an empty string variable, that resembles the final file.
@@ -97,7 +98,7 @@ else:
                 final_file_content = final_file_content + "1"
 
         final_file_content = final_file_content + " "
-        
+
     # Remove the last character.
     final_file_content = final_file_content[:-1]
 
