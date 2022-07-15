@@ -21,5 +21,13 @@ Hi:
 :8ball:,:8ball::8ball:,:8ball:,:8ball:,:8ball::8ball:,:8ball:,:8ball:,:8ball:;:8ball:,:8ball::8ball:,:8ball::8ball:,:8ball:,:8ball::8ball:,:8ball:,:8ball:,:8ball::8ball:
 ```
 <sub>This is a basic "Hi" sequence.</sub>
+# How to use and make your own Plugins
+Create a New Folder inside of your project folder called "Plugins". In that folder create .json file named "plugins". Write the following code into the .json file:
+```json
+["your_plugin", "downloaded_plugin"]
+```
+<sub>Replace the items in the list with the plugin file names that you want to load.</sub>
 
-As you Probably noticed, this is not very efficient...
+To add or create a plugin, create or copy a Python File in the Plugins Folder and add the file name **without** the extension in the plugins.json file.
+### How do Plugins work?
+Plugins are Python files that run before or in the compile process. You can do pretty much anything you want.
