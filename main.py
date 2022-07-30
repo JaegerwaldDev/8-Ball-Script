@@ -25,7 +25,6 @@ Conditions:
 
 # Import the necessary librarys.
 import sys
-import plugin_handler
 from time import sleep as wait
 
 # Define an empty string variable, that resembles the final file.
