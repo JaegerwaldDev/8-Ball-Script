@@ -1,3 +1,6 @@
+> [!NOTE]
+> Might remake this, if not, it's dead.
+
 This thing is dead.
 
 # 8 Ball Script
