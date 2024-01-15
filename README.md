@@ -1,5 +1,5 @@
 > [!NOTE]
-> Might remake this, if not, it's dead.
+> Might remake this, if not, it's dead. Also Gears is a really cool person.
 
 This thing is dead.
 
