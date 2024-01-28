@@ -1,5 +1,5 @@
 > [!NOTE]
-> Might remake this, if not, it's dead. Also Gears is a really cool person. That's not an opinion, it's a fact.
+> Although Eight Ball Script is dead, and also *two years old*, this thing might get remade very soon. Keep your eyes peeled!
 
 # 8 Ball Script
 This Language is a Binary Compiler, which means you need to know how to write Binary to use it
