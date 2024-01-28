@@ -1,8 +1,6 @@
 > [!NOTE]
 > Might remake this, if not, it's dead. Also Gears is a really cool person. That's not an opinion, it's a fact.
 
-This thing is dead.
-
 # 8 Ball Script
 This Language is a Binary Compiler, which means you need to know how to write Binary to use it
 # How to Install 8 Ball Script
