@@ -1,5 +1,5 @@
 > [!NOTE]
-> Although Eight Ball Script is dead, and also *two years old*, this thing might get remade very soon. Keep your eyes peeled!
+> Although Eight Ball Script is dead, and also *two years old*, this thing might get remade very soon. Keep your eyes peeled! Also Gears is epic.
 
 # 8 Ball Script
 This Language is a Binary Compiler, which means you need to know how to write Binary to use it
